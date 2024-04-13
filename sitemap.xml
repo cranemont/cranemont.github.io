@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cranemont.github.io/posts/</loc>
+    <lastmod>2024-04-13T18:45:08+09:00</lastmod>
+  </url><url>
+    <loc>https://cranemont.github.io/posts/test/</loc>
+    <lastmod>2024-04-13T18:45:08+09:00</lastmod>
+  </url><url>
+    <loc>https://cranemont.github.io/</loc>
+    <lastmod>2024-04-13T18:45:08+09:00</lastmod>
+  </url><url>
     <loc>https://cranemont.github.io/archive/</loc>
   </url><url>
     <loc>https://cranemont.github.io/categories/</loc>
@@ -9,7 +18,5 @@
     <loc>https://cranemont.github.io/search/</loc>
   </url><url>
     <loc>https://cranemont.github.io/tags/</loc>
-  </url><url>
-    <loc>https://cranemont.github.io/</loc>
   </url>
 </urlset>
